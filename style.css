@@ -1,0 +1,40 @@
+#intro {
+    background-color: darkseagreen;
+    text-align: center;
+    
+        
+}
+
+#picture1 {
+    width: 80px;
+    border-radius: 50%;
+}
+#picture2 {
+    width: 90px;
+    border-radius: 40%;
+}
+ 
+#bio {
+    text-align: center;
+}
+p {
+    font-family: cursive;
+    font-size: 20px;
+}
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position:absolute;
+    top:10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links { float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:fantasy;
+    font-size: 20px }
